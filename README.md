@@ -1,0 +1,6 @@
+# anarchy-os
+
+
+## License
+
+MIT

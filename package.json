@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "tape": "^5.0.0"
+  },
+  "dependencies": {
+    "pull-stream": "^3.6.14"
+  }
+}
